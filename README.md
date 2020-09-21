@@ -1,5 +1,5 @@
 # Studio-Portrait-Lighitng
-Studio Portrait Lighitng is a addon that stes up portrait style lighting with one hotkey <bold>SHIFT-F</bold>. The lighitng setup will include a rimlight, keylight and fill light all with appropraite parameters. This addon is still in development.
+Studio Portrait Lighitng is a addon that stes up portrait style lighting with one hotkey **SHIFT-F**. The lighitng setup will include a rimlight, keylight and fill light all with appropraite parameters. This addon is still in development.
 
 Made by RIHVK KADIRESAN
 
