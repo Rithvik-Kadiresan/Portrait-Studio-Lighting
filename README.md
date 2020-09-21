@@ -4,6 +4,6 @@ Studio Portrait Lighitng is a addon that stes up portrait style lighting with on
 Made by RIHVK KADIRESAN
 
 If you would like to see more of my work:
-1. My website: https://rithvikkadiresan.wixsite.com/rk-productions
-2. My ArtStation: https://www.artstation.com/rk_productions
-3. My Portfolio: https://theartofrithvikkadiresan.blogspot.com/
+..* My website: https://rithvikkadiresan.wixsite.com/rk-productions
+..* My ArtStation: https://www.artstation.com/rk_productions
+..* My Portfolio: https://theartofrithvikkadiresan.blogspot.com/
