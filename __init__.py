@@ -67,7 +67,7 @@ class PortraitLighting(bpy.types.Operator):
         flight = bpy.context.active_object
         flight.location[1] = soy + -5
         flight.location[0] = sox + -10
-        #bpy.context.object.data.energy = light_power - 500
+        bpy.context.object.data.energy = light_power - 500
         bpy.ops.object.constraint_add(type='TRACK_TO')
         bpy.context.object.constraints["Track To"].target = so
     
