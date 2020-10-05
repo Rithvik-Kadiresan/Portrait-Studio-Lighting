@@ -9,7 +9,7 @@ Head render made using P.L.S:
 
 This addon is still in development.
 
-Made by RIHVK KADIRESAN
+Made by RITHVK KADIRESAN
 
 If you would like to see more of my work:
 * My website: https://rithvikkadiresan.wixsite.com/rk-productions
